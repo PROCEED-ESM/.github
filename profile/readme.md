@@ -29,9 +29,10 @@ We base PROCEED around two pillars:
 
 ## Resources
 
+Center Website: http://PROCEED-ESM.github.io  
 Meeting Schedule and Discussion Forum: [PROCEED Forum](https://github.com/PROCEED-ESM/PROCEED.TAC)
 
-## Funding and Support
+## Funding 
 <img align="right" width="120" height="120" src="https://github.com/PROCEED-ESM/.github/assets/37650539/10a4f3e5-f242-4d46-92fc-c3b5c97c2984">  
 
 PROCEED is currently supported by the Department of Energy Established Program to Stimulate Competitive Research (DOE EPSCoR) Implementation Grants program in the Program Office of Biological & Environmental Research.  
@@ -39,7 +40,7 @@ PROCEED is currently supported by the Department of Energy Established Program t
 **Award Number**: DE-SC0024161  
 **Project Dates**: 09/01/2023 - 08/31/2025  
 
-
+## Support  
 <img align="right" width="120" height="120" src="https://github.com/PROCEED-ESM/.github/assets/37650539/f1e21adf-8a4f-4142-8fc9-1e80563fe2f2">  
 
 The Center makes extensive use of the [NCAR Wyoming Supercomputing Center](https://www2.cisl.ucar.edu/ncar-wyoming-supercomputing-center) for its computational experiments through the [Wyoming-NCAR Alliance](https://www.uwyo.edu/nwsc/allocations/index.html). 
